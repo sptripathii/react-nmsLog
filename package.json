@@ -1,0 +1,33 @@
+{
+  "name": "nms-monitoring",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/react-data-grid": "^4.0.1",
+    "prop-types": "^15.5.7",
+    "react": "^16.7.0",
+    "react-d3": "^0.4.0",
+    "react-d3-pie-chart": "^1.0.3",
+    "react-data-grid": "^5.0.5",
+    "react-data-grid-addons": "^5.0.5",
+    "react-dom": "^16.7.0",
+    "react-scripts": "2.1.2",
+    "react-svg-piechart": "^2.1.1",
+    "redux": "^3.7.2"
+  },
+  "scripts": {
+    "start": "PORT=3006 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

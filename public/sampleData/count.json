@@ -1,0 +1,22 @@
+[
+   {
+      "title": "warning",
+      "value": 10,
+      "color": "#22594e"
+   },
+   {
+      "title": "error",
+      "value": 5,
+      "color": "#22594e"
+   },
+   {
+      "title": "info",
+      "value": 8,
+      "color": "#22594e"
+   },
+   {
+      "title": "alert",
+      "value": 2,
+      "color": "#22594e"
+   }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "sourceIP": "10.1.1.1",
+        "severity": "warning",
+        "description": "STANDBY-6-STATECHANGE: Vlan42 Group 42 state Standby -> Active",
+        "timeStamp": "Sep 16 08:50:47.359"
+    },
+    {
+        "id": "2",
+        "sourceIP": "10.1.1.1",
+        "severity": "warning",
+        "description": "STANDBY-6-STATECHANGE: Vlan42 Group 42 state Standby -> Active",
+        "timeStamp": "Sep 16 08:50:47.359"
+    },
+    {
+        "id": "3",
+        "sourceIP": "10.1.1.1",
+        "severity": "warning",
+        "description": "STANDBY-6-STATECHANGE: Vlan42 Group 42 state Standby -> Active",
+        "timeStamp": "Sep 16 08:50:47.359"
+    },
+    {
+        "id": "4",
+        "sourceIP": "10.1.1.1",
+        "severity": "warning",
+        "description": "STANDBY-6-STATECHANGE: Vlan42 Group 42 state Standby -> Active",
+        "timeStamp": "Sep 16 08:50:47.359"
+    }
+]
